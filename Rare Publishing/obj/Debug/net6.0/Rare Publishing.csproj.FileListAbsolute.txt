@@ -1,0 +1,32 @@
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\appsettings.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Rare Publishing.exe
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Rare Publishing.deps.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Rare Publishing.runtimeconfig.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Rare Publishing.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Rare Publishing.pdb
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.csproj.AssemblyReference.cache
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.AssemblyInfoInputs.cache
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.AssemblyInfo.cs
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.csproj.CoreCompileInputs.cache
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets\msbuild.Rare Publishing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets\msbuild.build.Rare Publishing.props
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rare Publishing.props
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rare Publishing.props
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\scopedcss\bundle\Rare Publishing.styles.css
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.csproj.CopyComplete
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\refint\Rare Publishing.dll
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.pdb
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\Rare Publishing.genruntimeconfig.cache
+C:\Users\colea\source\repos\coleama\Rare-Publishing\Rare Publishing\obj\Debug\net6.0\ref\Rare Publishing.dll
