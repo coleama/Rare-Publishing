@@ -437,23 +437,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\colea\\.nuget\\packages\\": {},
+    "C:\\Users\\Riley\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colea\\source\\repos\\coleama\\Rare-Publishing\\Rare Publishing\\Rare Publishing.csproj",
+      "projectUniqueName": "C:\\Users\\Riley\\workspace\\foundations\\Backend\\Rare-Publishing\\Rare Publishing\\Rare Publishing.csproj",
       "projectName": "Rare Publishing",
-      "projectPath": "C:\\Users\\colea\\source\\repos\\coleama\\Rare-Publishing\\Rare Publishing\\Rare Publishing.csproj",
-      "packagesPath": "C:\\Users\\colea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colea\\source\\repos\\coleama\\Rare-Publishing\\Rare Publishing\\obj\\",
+      "projectPath": "C:\\Users\\Riley\\workspace\\foundations\\Backend\\Rare-Publishing\\Rare Publishing\\Rare Publishing.csproj",
+      "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Riley\\workspace\\foundations\\Backend\\Rare-Publishing\\Rare Publishing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\colea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Riley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -462,7 +462,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -505,7 +506,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
